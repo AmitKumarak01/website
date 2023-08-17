@@ -4,5 +4,6 @@
         "cjson.h": "c",
         "stdio.h": "c",
         "string.h": "c"
+        "Amit is a player": "c"
     }
 }
