@@ -1,6 +1,10 @@
 # Logs
 logs
 *.log
+
+# Mac OS temp files 
+DS_ndkdlf 
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
