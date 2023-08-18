@@ -2,6 +2,4 @@
 
 I am going home 
 
-Virat kholi is all time best player
-
-Updated locally
+It will be added with the help of rebase.
