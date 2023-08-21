@@ -13,5 +13,8 @@ this will be donw fir the purpose
 M4y name is Amit 
 
 hde dehdjd
+<<<<<<< HEAD
 
 Virat Kholi
+=======
+>>>>>>> 738270591fabd3a3985445578190f7b636f941af
